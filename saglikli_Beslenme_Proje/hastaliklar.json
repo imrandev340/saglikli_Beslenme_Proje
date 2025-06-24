@@ -1,0 +1,439 @@
+﻿[
+  {
+    "Hastalik": "Alzheimer Hastalığı",
+    "YemesiGerekenler": [
+      "Somon balığı",
+      "Ceviz",
+      "Yaban mersini",
+      "Ispanak",
+      "Brokoli",
+      "Zeytinyağı",
+      "Koyu yeşil yapraklı sebzeler",
+      "Yeşil çay"
+    ],
+    "YememesiGerekenler": [
+      "Şekerli içecekler",
+      "İşlenmiş gıdalar",
+      "Margarin",
+      "Aşırı tuzlu yiyecekler",
+      "Kızartmalar",
+      "Fast food ürünleri"
+    ]
+  },
+  {
+    "Hastalik": "Anemi (Kansızlık)",
+    "YemesiGerekenler": [
+      "Kırmızı et (özellikle dana ciğeri)",
+      "Ispanak",
+      "Pancar",
+      "Kuru üzüm",
+      "Mercimek",
+      "C vitamini içeren meyveler (portakal, kivi)",
+      "Yulaf ezmesi"
+    ],
+    "YememesiGerekenler": [
+      "Çay",
+      "Kahve",
+      "Fazla süt tüketimi",
+      "İşlenmiş tahıllar"
+    ]
+  },
+  {
+    "Hastalik": "Astım",
+    "YemesiGerekenler": [
+      "Elma",
+      "Brokoli",
+      "Zencefil",
+      "Balık (somon, uskumru)",
+      "Badem",
+      "Ispanak",
+      "Yeşil sebzeler"
+    ],
+    "YememesiGerekenler": [
+      "Süt ve süt ürünleri",
+      "İşlenmiş gıdalar",
+      "Şekerli yiyecekler",
+      "Aşırı tuzlu yiyecekler"
+    ]
+  },
+  {
+    "Hastalik": "Diyabet (Şeker Hastalığı)",
+    "YemesiGerekenler": [
+      "Yulaf ezmesi",
+      "Baklagiller",
+      "Ceviz",
+      "Avokado",
+      "Tam buğday ürünleri",
+      "Tarçın",
+      "Bitter çikolata (az miktarda)"
+    ],
+    "YememesiGerekenler": [
+      "Beyaz ekmek",
+      "Şekerli içecekler",
+      "İşlenmiş gıdalar",
+      "Tatlılar",
+      "Hamur işleri"
+    ]
+  },
+  {
+    "Hastalik": "Gluten Duyarlılığı",
+    "YemesiGerekenler": [
+      "Pirinç",
+      "Mısır",
+      "Kinoa",
+      "Patates",
+      "Meyve ve sebzeler",
+      "Baklagiller"
+    ],
+    "YememesiGerekenler": [
+      "Buğday",
+      "Arpa",
+      "Çavdar",
+      "Hazır kekler",
+      "Krakerler",
+      "Bira"
+    ]
+  },
+  {
+    "Hastalik": "Gastrointestinal Hastalıklar (Reflü, Ülser, İBS vb.)",
+    "YemesiGerekenler": [
+      "Muz",
+      "Yulaf ezmesi",
+      "Pirinç lapası",
+      "Haşlanmış patates",
+      "Yoğurt",
+      "Havuç püresi"
+    ],
+    "YememesiGerekenler": [
+      "Baharatlı yiyecekler",
+      "Asidik yiyecekler (domates, portakal)",
+      "Kızartmalar",
+      "Kafeinli içecekler"
+    ]
+  },
+  {
+    "Hastalik": "Hipoglisemi (Düşük Kan Şekeri)",
+    "YemesiGerekenler": [
+      "Tam tahıllı ekmek",
+      "Yulaf ezmesi",
+      "Fıstık ezmesi",
+      "Elma",
+      "Badem",
+      "Süt"
+    ],
+    "YememesiGerekenler": [
+      "Şekerli atıştırmalıklar",
+      "Beyaz ekmek",
+      "İşlenmiş gıdalar",
+      "Gazlı içecekler"
+    ]
+  },
+  {
+    "Hastalik": "Hipertansiyon (Yüksek Tansiyon)",
+    "YemesiGerekenler": [
+      "Muz",
+      "Ispanak",
+      "Somon",
+      "Sarımsak",
+      "Yoğurt",
+      "Pancar"
+    ],
+    "YememesiGerekenler": [
+      "Tuzlu yiyecekler",
+      "Konserve ürünler",
+      "İşlenmiş etler",
+      "Fast food"
+    ]
+  },
+  {
+    "Hastalik": "İnsülin Direnci",
+    "YemesiGerekenler": [
+      "Avokado",
+      "Zeytinyağı",
+      "Yulaf",
+      "Kinoa",
+      "Yeşil yapraklı sebzeler",
+      "Somon"
+    ],
+    "YememesiGerekenler": [
+      "Beyaz şeker",
+      "Beyaz un",
+      "Şekerli içecekler",
+      "Hazır gıdalar"
+    ]
+  },
+  {
+    "Hastalik": "İrritabl Bağırsak Sendromu (İBS)",
+    "YemesiGerekenler": [
+      "Muz",
+      "Yulaf ezmesi",
+      "Patates",
+      "Kabak",
+      "Yoğurt",
+      "Havuç"
+    ],
+    "YememesiGerekenler": [
+      "Soğan",
+      "Sarımsak",
+      "Lahana",
+      "Baklagiller",
+      "Gazlı içecekler"
+    ]
+  },
+  {
+    "Hastalik": "Kanser (Özellikle Kemoterapi Sonrası Beslenme)",
+    "YemesiGerekenler": [
+      "Nar",
+      "Brokoli",
+      "Ispanak",
+      "Kırmızı meyveler",
+      "Tam tahıllar",
+      "Balık"
+    ],
+    "YememesiGerekenler": [
+      "İşlenmiş etler",
+      "Şekerli yiyecekler",
+      "Aşırı yağlı gıdalar",
+      "Fast food ürünleri"
+    ]
+  },
+  {
+    "Hastalik": "Karaciğer Hastalıkları (Siroz, Hepatit vb.)",
+    "YemesiGerekenler": [
+      "Yeşil sebzeler",
+      "Balık",
+      "Pancar",
+      "Zeytinyağı",
+      "Elma",
+      "Yoğurt"
+    ],
+    "YememesiGerekenler": [
+      "Alkol",
+      "Aşırı tuzlu yiyecekler",
+      "Kızartmalar",
+      "İşlenmiş gıdalar"
+    ]
+  },
+  {
+    "Hastalik": "Kalp-Damar Hastalıkları",
+    "YemesiGerekenler": [
+      "Somon",
+      "Zeytinyağı",
+      "Ceviz",
+      "Yulaf ezmesi",
+      "Badem",
+      "Yeşil sebzeler"
+    ],
+    "YememesiGerekenler": [
+      "Doymuş yağlar",
+      "İşlenmiş etler",
+      "Aşırı tuzlu yiyecekler",
+      "Şekerli yiyecekler"
+    ]
+  },
+  {
+    "Hastalik": "Obezite",
+    "YemesiGerekenler": [
+      "Sebzeler",
+      "Meyveler",
+      "Baklagiller",
+      "Tam tahıllar",
+      "Balık",
+      "Yoğurt"
+    ],
+    "YememesiGerekenler": [
+      "Şekerli içecekler",
+      "Fast food",
+      "İşlenmiş gıdalar",
+      "Hamur işleri"
+    ]
+  },
+  {
+    "Hastalik": "Osteoporoz (Kemik Erimesi)",
+    "YemesiGerekenler": [
+      "Süt",
+      "Yoğurt",
+      "Peynir",
+      "Ispanak",
+      "Badem",
+      "Somon"
+    ],
+    "YememesiGerekenler": [
+      "Gazlı içecekler",
+      "Aşırı tuz tüketimi",
+      "İşlenmiş etler",
+      "Kafeinli içecekler"
+    ]
+  },
+  {
+    "Hastalik": "Parkinson Hastalığı",
+    "YemesiGerekenler": [
+      "Brokoli",
+      "Ispanak",
+      "Yaban mersini",
+      "Balık",
+      "Ceviz",
+      "Zeytinyağı"
+    ],
+    "YememesiGerekenler": [
+      "İşlenmiş gıdalar",
+      "Aşırı şekerli yiyecekler",
+      "Kızartmalar",
+      "Doymuş yağlar"
+    ]
+  },
+  {
+    "Hastalik": "Psoriatik Artrit",
+    "YemesiGerekenler": [
+      "Somon",
+      "Zeytinyağı",
+      "Brokoli",
+      "Badem",
+      "Nar",
+      "Ispanak"
+    ],
+    "YememesiGerekenler": [
+      "Kızartmalar",
+      "Şekerli yiyecekler",
+      "İşlenmiş etler",
+      "Gazlı içecekler"
+    ]
+  },
+  {
+    "Hastalik": "Sedef Hastalığı",
+    "YemesiGerekenler": [
+      "Somon",
+      "Zeytinyağı",
+      "Ispanak",
+      "Brokoli",
+      "Kırmızı meyveler",
+      "Badem"
+    ],
+    "YememesiGerekenler": [
+      "Şekerli yiyecekler",
+      "İşlenmiş gıdalar",
+      "Fast food",
+      "Alkol"
+    ]
+  },
+  {
+    "Hastalik": "Sindirim Sistemi Hastalıkları (Crohn, Colitis vb.)",
+    "YemesiGerekenler": [
+      "Muz",
+      "Pirinç",
+      "Yulaf ezmesi",
+      "Haşlanmış patates",
+      "Yoğurt",
+      "Havuç"
+    ],
+    "YememesiGerekenler": [
+      "Baharatlı yiyecekler",
+      "Lif oranı yüksek gıdalar (hastalığın aktif döneminde)",
+      "Kızartmalar",
+      "Gazlı içecekler"
+    ]
+  },
+  {
+    "Hastalik": "Tiroid Hastalıkları (Hipotiroidi, Hipertiroidi)",
+    "YemesiGerekenler": [
+      "Deniz ürünleri",
+      "Süt ürünleri",
+      "Ispanak",
+      "Ceviz",
+      "Yumurta",
+      "Tavuk"
+    ],
+    "YememesiGerekenler": [
+      "Brokoli (aşırı tüketimi)",
+      "Karnabahar",
+      "Soya ürünleri",
+      "Şekerli yiyecekler"
+    ]
+  },
+  {
+    "Hastalik": "Vegan Beslenme",
+    "YemesiGerekenler": [
+      "Mercimek",
+      "Nohut",
+      "Tofu",
+      "Soya sütü",
+      "Kinoa",
+      "Sebzeler",
+      "Meyveler"
+    ],
+    "YememesiGerekenler": [
+      "Hayvansal ürünler",
+      "Yumurta",
+      "Süt ve süt ürünleri",
+      "Et"
+    ]
+  },
+  {
+    "Hastalik": "Çölyak Hastalığı (Gluten Hassasiyeti)",
+    "YemesiGerekenler": [
+      "Pirinç",
+      "Mısır",
+      "Kinoa",
+      "Patates",
+      "Taze sebzeler",
+      "Taze meyveler"
+    ],
+    "YememesiGerekenler": [
+      "Buğday",
+      "Arpa",
+      "Çavdar",
+      "Hazır kekler",
+      "Krakerler"
+    ]
+  },
+  {
+    "Hastalik": "Böbrek Hastalıkları",
+    "YemesiGerekenler": [
+      "Elma",
+      "Üzüm",
+      "Bulgur",
+      "Pirinç",
+      "Havuç",
+      "Balık"
+    ],
+    "YememesiGerekenler": [
+      "Tuzlu yiyecekler",
+      "İşlenmiş etler",
+      "Yüksek potasyumlu yiyecekler (muz, patates fazla miktarda)"
+    ]
+  },
+  {
+    "Hastalik": "Laktaz Eksikliği (Laktoz İntoleransı)",
+    "YemesiGerekenler": [
+      "Laktozsuz süt",
+      "Soya sütü",
+      "Badem sütü",
+      "Sebzeler",
+      "Meyveler",
+      "Tofu"
+    ],
+    "YememesiGerekenler": [
+      "Süt",
+      "Peynir",
+      "Yoğurt (normal)",
+      "Dondurma"
+    ]
+  },
+  {
+    "Hastalik": "Gut Hastalığı",
+    "YemesiGerekenler": [
+      "Kiraz",
+      "Yoğurt",
+      "C vitamini içeren gıdalar",
+      "Tam tahıllar",
+      "Sebzeler",
+      "Su tüketimi yüksek"
+    ],
+    "YememesiGerekenler": [
+      "Kırmızı et",
+      "İşlenmiş etler",
+      "Deniz ürünleri (karides, midye)",
+      "Alkol"
+    ]
+  }
+]
